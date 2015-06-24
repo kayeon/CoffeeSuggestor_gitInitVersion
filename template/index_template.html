@@ -1,0 +1,55 @@
+<html>
+  <head>
+  	<style>.red { color: red;}</style>
+  </head>
+ <body>
+ 	<h2>
+ 		Welcome to Coffee Drink Name Generator
+ 	</h2>
+
+<!-- Adjective Input Form -->
+<form id="adjectiveForm">
+	<label>
+		"Add an Adjective: "
+		<input type="text" id="user-adjective">
+	</lable>
+	<input type="submit" value="Send Me!">
+</form>
+
+<!-- Noun Input Form -->
+<form id="nounForm">
+	<label>
+		"Add a Noun: "
+		<input type="text" id="user-noun">
+	</label>
+	<input type="submit" value="Send!">
+</form>
+
+<!-- Verb Input Form -->
+<form id="verbForm">
+	<label>
+		"Add a Verb: "
+		<input type="text" id="user-verb">
+	</lable>
+	<input type="submit" value="Send!">
+</form>
+
+<!-- Response Message -->
+<p id="responseMessage">
+	</p>
+
+<button id="name">Get your random Coffee Name!</button>
+
+<p>
+	"Your name: "
+	<span id="adjective"></span>
+	<span id="verb"></span>
+	<span id="noun"></span>
+	<br>
+	<br>
+</p>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
