@@ -1,4 +1,6 @@
 # CoffeeSuggestor_gitInitVersion
 Coffee Suggestor from Terminal Git Init
 
-This is the best readme!
+Poe is the best
+
+I'm going to be the Head of the snake!
