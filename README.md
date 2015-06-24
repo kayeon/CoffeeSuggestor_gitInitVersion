@@ -1,4 +1,4 @@
 # CoffeeSuggestor_gitInitVersion
 Coffee Suggestor from Terminal Git Init
 
-This is the readme!
+Poe is the best
